@@ -1,0 +1,764 @@
+{
+  "products": [
+    {
+      "name": "Clemson Tigers Vintage Football",
+      "price": 34.99,
+      "description": "A vintage leather football embossed with the Clemson Tigers logo.",
+      "keywords": [
+        "vintage",
+        "football",
+        "sports",
+        "memorabilia"
+      ]
+    },
+    {
+      "name": "Clemson 2018 Championship Replica Ring",
+      "price": 199.99,
+      "description": "Replica of the Clemson Tigers 2018 National Championship ring.",
+      "keywords": [
+        "championship",
+        "ring",
+        "football",
+        "2018"
+      ]
+    },
+    {
+      "name": "Autographed Clemson Helmet",
+      "price": 150.00,
+      "description": "Football helmet autographed by prominent Clemson Tigers players.",
+      "keywords": [
+        "helmet",
+        "autographed",
+        "sports",
+        "football",
+        "memorabilia"
+      ]
+    },
+    {
+      "name": "Clemson Paw Print Decal",
+      "price": 4.99,
+      "description": "Vinyl decal of the iconic Clemson Tigers paw print.",
+      "keywords": [
+        "decal",
+        "paw print",
+        "sticker",
+        "memorabilia"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Tailgate Tent",
+      "price": 249.99,
+      "description": "A spacious tent featuring Clemson Tigers colors and logos.",
+      "keywords": [
+        "tent",
+        "tailgate",
+        "sports",
+        "outdoors"
+      ]
+    },
+    {
+      "name": "Clemson University Historic Pennant",
+      "price": 19.99,
+      "description": "Vintage-style felt pennant celebrating Clemson University history.",
+      "keywords": [
+        "pennant",
+        "vintage",
+        "history",
+        "memorabilia"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Basketball Jersey",
+      "price": 79.99,
+      "description": "Authentic Clemson Tigers basketball jersey, high-quality fabric.",
+      "keywords": [
+        "basketball",
+        "jersey",
+        "sports",
+        "apparel"
+      ]
+    },
+    {
+      "name": "Clemson Fight Song Music Box",
+      "price": 49.99,
+      "description": "A music box that plays the Clemson Tigers' fight song.",
+      "keywords": [
+        "music box",
+        "fight song",
+        "memorabilia",
+        "music"
+      ]
+    },
+    {
+      "name": "Clemson Alumni License Plate Frame",
+      "price": 24.99,
+      "description": "Metal license plate frame for Clemson University alumni.",
+      "keywords": [
+        "alumni",
+        "license plate",
+        "frame",
+        "car accessory"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Throw Blanket",
+      "price": 39.99,
+      "description": "Cozy throw blanket featuring the Clemson Tigers logo.",
+      "keywords": [
+        "blanket",
+        "throw",
+        "home",
+        "comfort"
+      ]
+    },
+    {
+      "name": "Clemson Mascot Plush Toy",
+      "price": 19.99,
+      "description": "Plush toy version of the Clemson Tigers' beloved mascot.",
+      "keywords": [
+        "mascot",
+        "plush toy",
+        "stuffed animal",
+        "memorabilia"
+      ]
+    },
+    {
+      "name": "Clemson University Coffee Mug",
+      "price": 14.99,
+      "description": "Ceramic coffee mug with the Clemson University logo.",
+      "keywords": [
+        "coffee mug",
+        "ceramic",
+        "drinkware",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Water Bottle",
+      "price": 24.99,
+      "description": "Reusable water bottle with the Clemson Tigers logo and colors.",
+      "keywords": [
+        "water bottle",
+        "reusable",
+        "sports",
+        "drinkware"
+      ]
+    },
+    {
+      "name": "Clemson University Backpack",
+      "price": 49.99,
+      "description": "Durable backpack with padded straps, featuring Clemson University's logo.",
+      "keywords": [
+        "backpack",
+        "school",
+        "logo",
+        "accessory"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Wall Clock",
+      "price": 29.99,
+      "description": "Wall clock featuring the Clemson Tigers logo and team colors.",
+      "keywords": [
+        "wall clock",
+        "home",
+        "decor",
+        "team colors"
+      ]
+    },
+    {
+      "name": "Clemson University Cookbook",
+      "price": 19.99,
+      "description": "Cookbook featuring favorite recipes from Clemson University students and alumni.",
+      "keywords": [
+        "cookbook",
+        "recipes",
+        "alumni",
+        "cuisine"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Golf Balls",
+      "price": 24.99,
+      "description": "Set of golf balls emblazoned with the Clemson Tigers logo.",
+      "keywords": [
+        "golf balls",
+        "sports",
+        "golf",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Yearbook",
+      "price": 99.99,
+      "description": "A collection of Clemson University yearbooks from various years.",
+      "keywords": [
+        "yearbook",
+        "history",
+        "school",
+        "book"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Football Helmet",
+      "price": 129.99,
+      "description": "Replica football helmet in Clemson Tigers colors and logo.",
+      "keywords": [
+        "football helmet",
+        "replica",
+        "sports",
+        "memorabilia"
+      ]
+    },
+    {
+      "name": "Clemson University Hoodie",
+      "price": 59.99,
+      "description": "Comfortable, high-quality hoodie with the Clemson University logo.",
+      "keywords": [
+        "hoodie",
+        "apparel",
+        "logo",
+        "comfort"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Car Decal",
+      "price": 7.99,
+      "description": "Adhesive car decal featuring the bold Clemson Tigers logo.",
+      "keywords": [
+        "car decal",
+        "sticker",
+        "logo",
+        "accessory"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Baseball Cap",
+      "price": 24.99,
+      "description": "Adjustable baseball cap with the Clemson Tigers logo.",
+      "keywords": [
+        "baseball cap",
+        "hat",
+        "sports",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Lapel Pin",
+      "price": 9.99,
+      "description": "Elegant lapel pin featuring the Clemson University logo.",
+      "keywords": [
+        "lapel pin",
+        "accessory",
+        "elegant",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Diploma Frame",
+      "price": 129.99,
+      "description": "Handsome frame for displaying your Clemson University diploma.",
+      "keywords": [
+        "diploma frame",
+        "graduation",
+        "display",
+        "memorabilia"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Basketball",
+      "price": 29.99,
+      "description": "Official size basketball featuring the Clemson Tigers logo.",
+      "keywords": [
+        "basketball",
+        "sports",
+        "official",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Pet Jersey",
+      "price": 19.99,
+      "description": "Adorable pet jersey in the Clemson Tigers team colors.",
+      "keywords": [
+        "pet jersey",
+        "apparel",
+        "team colors",
+        "pets"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Phone Case",
+      "price": 22.99,
+      "description": "Protective phone case featuring the Clemson Tigers logo.",
+      "keywords": [
+        "phone case",
+        "protective",
+        "logo",
+        "accessory"
+      ]
+    },
+    {
+      "name": "Clemson University Pajamas",
+      "price": 39.99,
+      "description": "Comfortable pajamas featuring Clemson University's colors and logo.",
+      "keywords": [
+        "pajamas",
+        "apparel",
+        "comfort",
+        "sleepwear"
+      ]
+    },
+    {
+      "name": "Clemson University Banner",
+      "price": 24.99,
+      "description": "Large banner featuring Clemson University's logo and motto.",
+      "keywords": [
+        "banner",
+        "large",
+        "motto",
+        "display"
+      ]
+    },
+    {
+      "name": "Clemson University Postcards",
+      "price": 9.99,
+      "description": "Set of postcards featuring beautiful scenes of Clemson University's campus.",
+      "keywords": [
+        "postcards",
+        "scenic",
+        "campus",
+        "souvenir"
+      ]
+    },
+    {
+      "name": "Clemson University Keychain",
+      "price": 6.99,
+      "description": "Metal keychain with the Clemson University logo.",
+      "keywords": [
+        "keychain",
+        "metal",
+        "logo",
+        "accessory"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Cooler",
+      "price": 49.99,
+      "description": "Portable cooler in Clemson Tigers colors, perfect for tailgating.",
+      "keywords": [
+        "cooler",
+        "portable",
+        "tailgating",
+        "sports"
+      ]
+    },
+    {
+      "name": "Clemson University Notebooks",
+      "price": 14.99,
+      "description": "Set of notebooks with covers featuring Clemson University's logo.",
+      "keywords": [
+        "notebooks",
+        "school",
+        "writing",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Lanyard",
+      "price": 7.99,
+      "description": "Lanyard in Clemson Tigers colors with a detachable key ring.",
+      "keywords": [
+        "lanyard",
+        "key ring",
+        "sports",
+        "accessory"
+      ]
+    },
+    {
+      "name": "Clemson University Scarf",
+      "price": 19.99,
+      "description": "Warm scarf featuring the colors and logo of Clemson University.",
+      "keywords": [
+        "scarf",
+        "warm",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Drum Sticks",
+      "price": 24.99,
+      "description": "Pair of drum sticks with the Clemson Tigers logo and colors.",
+      "keywords": [
+        "drum sticks",
+        "music",
+        "logo",
+        "colors"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Baby Onesie",
+      "price": 17.99,
+      "description": "Cute baby onesie in Clemson Tigers colors and logo.",
+      "keywords": [
+        "baby onesie",
+        "cute",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Umbrella",
+      "price": 29.99,
+      "description": "Sturdy umbrella in Clemson University colors with logo.",
+      "keywords": [
+        "umbrella",
+        "sturdy",
+        "weather",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Barbecue Set",
+      "price": 39.99,
+      "description": "Barbecue set with utensils bearing the Clemson Tigers logo.",
+      "keywords": [
+        "barbecue set",
+        "utensils",
+        "grilling",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Candle",
+      "price": 19.99,
+      "description": "Scented candle with Clemson University's colors and logo.",
+      "keywords": [
+        "candle",
+        "scented",
+        "home",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Socks",
+      "price": 12.99,
+      "description": "Comfortable socks adorned with the Clemson Tigers logo.",
+      "keywords": [
+        "socks",
+        "comfortable",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Tote Bag",
+      "price": 24.99,
+      "description": "Spacious tote bag with Clemson University's logo and colors.",
+      "keywords": [
+        "tote bag",
+        "spacious",
+        "shopping",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Sunglasses",
+      "price": 19.99,
+      "description": "Stylish sunglasses with UV protection and Clemson Tigers logo.",
+      "keywords": [
+        "sunglasses",
+        "UV protection",
+        "stylish",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Snow Globe",
+      "price": 29.99,
+      "description": "Charming snow globe featuring a scene from Clemson University's campus.",
+      "keywords": [
+        "snow globe",
+        "charming",
+        "campus",
+        "souvenir"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Puzzle",
+      "price": 19.99,
+      "description": "Fun 500-piece puzzle featuring the Clemson Tigers stadium.",
+      "keywords": [
+        "puzzle",
+        "fun",
+        "game",
+        "stadium"
+      ]
+    },
+    {
+      "name": "Clemson University Pillow",
+      "price": 24.99,
+      "description": "Decorative pillow featuring the Clemson University logo and colors.",
+      "keywords": [
+        "pillow",
+        "decorative",
+        "home",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Baseball Cap",
+      "price": 19.99,
+      "description": "Classic baseball cap with the Clemson Tigers logo and colors.",
+      "keywords": [
+        "baseball cap",
+        "classic",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University License Plate Frame",
+      "price": 24.99,
+      "description": "License plate frame featuring the Clemson University logo.",
+      "keywords": [
+        "license plate frame",
+        "car accessory",
+        "logo",
+        "display"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Garden Flag",
+      "price": 17.99,
+      "description": "Decorative garden flag featuring the Clemson Tigers logo.",
+      "keywords": [
+        "garden flag",
+        "decorative",
+        "outdoor",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Travel Mug",
+      "price": 24.99,
+      "description": "Insulated travel mug with the Clemson University logo.",
+      "keywords": [
+        "travel mug",
+        "insulated",
+        "beverage",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Water Bottle",
+      "price": 19.99,
+      "description": "Reusable water bottle with the Clemson Tigers logo.",
+      "keywords": [
+        "water bottle",
+        "reusable",
+        "hydration",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Blanket",
+      "price": 34.99,
+      "description": "Cozy blanket featuring the Clemson University colors and logo.",
+      "keywords": [
+        "blanket",
+        "cozy",
+        "home",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Frisbee",
+      "price": 14.99,
+      "description": "Flying disc with the Clemson Tigers logo, perfect for outdoor fun.",
+      "keywords": [
+        "frisbee",
+        "flying disc",
+        "outdoor",
+        "fun"
+      ]
+    },
+    {
+      "name": "Clemson University Hoodie",
+      "price": 59.99,
+      "description": "Comfy hoodie with Clemson University's logo, perfect for chilly days.",
+      "keywords": [
+        "hoodie",
+        "comfy",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Sneakers",
+      "price": 69.99,
+      "description": "Stylish sneakers in the Clemson Tigers colors with logo.",
+      "keywords": [
+        "sneakers",
+        "stylish",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Stationery Set",
+      "price": 14.99,
+      "description": "Stationery set with Clemson University's logo, perfect for students.",
+      "keywords": [
+        "stationery set",
+        "writing",
+        "students",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Watch",
+      "price": 99.99,
+      "description": "Elegant watch with the Clemson Tigers logo on the dial.",
+      "keywords": [
+        "watch",
+        "elegant",
+        "accessory",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Windbreaker",
+      "price": 79.99,
+      "description": "Lightweight windbreaker with Clemson University's logo and colors.",
+      "keywords": [
+        "windbreaker",
+        "lightweight",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Yoga Mat",
+      "price": 34.99,
+      "description": "Yoga mat with the Clemson Tigers logo, perfect for fitness enthusiasts.",
+      "keywords": [
+        "yoga mat",
+        "fitness",
+        "exercise",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Plush Tiger",
+      "price": 24.99,
+      "description": "Adorable plush tiger mascot with the Clemson University logo.",
+      "keywords": [
+        "plush tiger",
+        "mascot",
+        "adorable",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Football",
+      "price": 29.99,
+      "description": "Official size football featuring the Clemson Tigers logo.",
+      "keywords": [
+        "football",
+        "sports",
+        "official",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Pendant",
+      "price": 49.99,
+      "description": "Beautiful pendant with the Clemson University logo, perfect for jewelry lovers.",
+      "keywords": [
+        "pendant",
+        "jewelry",
+        "beautiful",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Earbuds",
+      "price": 29.99,
+      "description": "High-quality earbuds with the Clemson Tigers logo and colors.",
+      "keywords": [
+        "earbuds",
+        "high-quality",
+        "audio",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Laptop Sleeve",
+      "price": 29.99,
+      "description": "Protective laptop sleeve featuring the Clemson University logo.",
+      "keywords": [
+        "laptop sleeve",
+        "protective",
+        "tech accessory",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Mouse Pad",
+      "price": 12.99,
+      "description": "Mouse pad with the Clemson Tigers logo, perfect for home or office.",
+      "keywords": [
+        "mouse pad",
+        "home office",
+        "computer accessory",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Mug",
+      "price": 14.99,
+      "description": "Classic mug featuring the Clemson University logo, perfect for any beverage.",
+      "keywords": [
+        "mug",
+        "classic",
+        "beverage",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Sticker Set",
+      "price": 9.99,
+      "description": "Set of fun stickers featuring the Clemson Tigers logo and colors.",
+      "keywords": [
+        "sticker set",
+        "fun",
+        "crafts",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson University Gameday Jersey",
+      "price": 99.99,
+      "description": "Authentic gameday jersey with the Clemson University logo and team colors.",
+      "keywords": [
+        "gameday jersey",
+        "authentic",
+        "apparel",
+        "logo"
+      ]
+    },
+    {
+      "name": "Clemson Tigers Night Light",
+      "price": 17.99,
+      "description": "Decorative night light with the Clemson Tigers logo, perfect for any room.",
+      "keywords": [
+        "night light",
+        "decorative",
+        "home",
+        "logo"
+      ]
+    }
+  ]
+}

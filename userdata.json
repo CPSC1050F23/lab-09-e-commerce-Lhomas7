@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "name": "Riley Johnson",
+            "email": "rjohns3@g.clemson.edu",
+            "password": "GoTigers2023",
+            "spent": 0,
+            "cart": []
+        },
+        {
+            "name": "Alexis Martin",
+            "email": "amartin9@g.clemson.edu",
+            "password": "TigerPride!",
+            "spent": 0,
+            "cart": []
+        },
+        {
+            "name": "Dylan Patel",
+            "email": "dpatel7@g.clemson.edu",
+            "password": "ClemsonRocks",
+            "spent": 0,
+            "cart": []
+        },
+        {
+            "name": "Morgan Garcia",
+            "email": "mgarcia5@g.clemson.edu",
+            "password": "OrangeWave2023",
+            "spent": 0,
+            "cart": []
+        },
+        {
+            "name": "aa",
+            "email": "a",
+            "password": "b",
+            "spent": 0,
+            "cart": []
+        }
+    ]
+}
